@@ -1,2 +1,0 @@
-Am implementat o clasa Spital ce continte inauntru ei doua alte clase principale, si anume clasa Person si clasa Departament. 
-Am folosit asa cum cerea laboratorul concepte precum Encapsulation, Inheritance sau Polymorphism. 
